@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dominik3335@gmail.com
+	name = Dominik Abratanski
